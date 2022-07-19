@@ -41,7 +41,7 @@ Attempt 2: Adding Additional neurons to hidden layers and additional hidden laye
 ![3rd attemp Deep model Accuracy](https://user-images.githubusercontent.com/100821974/179638588-5af912c5-ca2f-4ca5-8955-bf0763ed0448.png)
 ![3rd attemp accuracy](https://user-images.githubusercontent.com/100821974/179638692-d94a92c7-3450-4002-b84a-908b6b38291a.png)
 
-Attempt 3: Changing activation function of output layer from "sigmoid" to "tanh." The accuracy of the model did not change for the 72.6%.
+Attempt 3: Changing activation function of output layer from "sigmoid" to "tanh." The accuracy of the model did not change from the 72.6%.
 
 ![4th Attempt changed output layer to tanh](https://user-images.githubusercontent.com/100821974/179639161-f72173da-fce2-48bf-9e17-b4b9dfef5e1f.png)
 ![4th Attempt Accuracy](https://user-images.githubusercontent.com/100821974/179639172-a0b66708-6844-4c3c-8b5a-e99fcc3403a9.png)
